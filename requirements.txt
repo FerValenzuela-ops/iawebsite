@@ -124,7 +124,7 @@ python-lsp-jsonrpc==1.0.0
 python-lsp-server==1.2.4
 python-slugify 
 pytz==2021.3
-pywin32==302
+
 pywin32-ctypes 
 PyYAML==6.0
 pyzmq 
